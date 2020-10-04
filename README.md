@@ -6,7 +6,7 @@ Are you tired of reinstalling extensions on each of your computer(s)? How about 
 
 ## What extensions will I get by selecting this extension pack?
 
-Glad, that you've asked! Please find the supervening extensions. Of course, I always love to hear your suggestions to improve this extension package.
+Glad, that you've asked! Please find the supervening extensions. Of course, I always love to hear your suggestions to improve this extension package.  To do so, please create a new issue in the [**Issues Section**](https://github.com/jillmnolan/python-essentials/issues). After all, the ultimate goal for this extension pack is **convenience** at the click of one button. 
 
 * [**Chromodynamics Theme**](https://marketplace.visualstudio.com/items?itemName=magicstack.Chromodynamics): A **VSCode plugin** extends **Python programming** in **VSCode** through *a highly recommended (at least, from yours truly!)* **dark color scheme** from [**MagicStack**](https://github.com/MagicStack).  **Note:** This works well with [**MagicPython**](https://github.com/MagicStack/MagicPython), which is included below.  :-)
 
