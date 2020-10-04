@@ -1,7 +1,7 @@
 {
     "name": "python-essentials",
     "displayName": "Python Essentials",
-    "description": "Python Essentials Extension Pack for VS Code",
+    "description": "Python Essentials Extension Pack for VS Code.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.49.0"
@@ -9,7 +9,41 @@
     "categories": [
         "Extension Packs"
     ],
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/jillmnolan/python-essentials"
+    },
     "extensionPack": [ 
-        "publisher.extensionName"
+        "magicstack.Chromodynamics",
+        "ms-python.python",
+        "magicstack.MagicPython",
+        "wholroyd.jinja"
+        "batisteo.vscode-django",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "LittleFoxTeam.vscode-python-test-adapter",
+        "hbenl.vscode-test-explorer",
+        "MS-vsliveshare.vsliveshare-pack",
+        "hbenl.vscode-test-explorer-liveshare",
+        "ms-pyright.pyright",
+        "shan.code-settings-sync",
+        "formulahendry.code-runner",
+        "spywhere.guides",
+        "almenon.arepl",
+        "njpwerner.autodocstring",
+        "kiteco.kite",
+        "EditorConfig.EditorConfig",
+        "streetsidesoftware.code-spell-checker",
+        "eamodio.gitlens",
+        "fabioz.vscode-pydev",
+        "TabNine.tabnine-vscode",
+        "aaron-bond.better-comments",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "yzhang.markdown-all-in-one",
+        "DavidAnson.vscode-markdownlint",
+        "AlanWalk.markdown-toc",
+        "esbenp.prettier-vscode",
+        "emeraldwalk.runonsave",
+        "redhat.vscode-yaml",
+        "WakaTime.vscode-wakatime"
     ]
 }
