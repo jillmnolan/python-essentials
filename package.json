@@ -1,7 +1,7 @@
 {
     "name": "python-essentials",
     "displayName": "Python Essentials",
-    "description": "Python Essentials Extension Pack for VS Code.",
+    "description": "Python Essentials Extension Pack for VSCode",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.49.0"
@@ -17,7 +17,7 @@
         "magicstack.Chromodynamics",
         "ms-python.python",
         "magicstack.MagicPython",
-        "wholroyd.jinja"
+        "wholroyd.jinja",
         "batisteo.vscode-django",
         "VisualStudioExptTeam.vscodeintellicode",
         "LittleFoxTeam.vscode-python-test-adapter",
