@@ -1,0 +1,15 @@
+{
+    "name": "python-essentials",
+    "displayName": "Python Essentials",
+    "description": "Python Essentials Extension Pack for VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
