@@ -3,6 +3,8 @@
     "displayName": "Python Essentials",
     "description": "Python Essentials Extension Pack for VSCode",
     "version": "0.0.1",
+    "icon": "icon.png",
+    "publisher": "JillMNolan",
     "engines": {
         "vscode": "^1.49.0"
     },
