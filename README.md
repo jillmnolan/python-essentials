@@ -96,11 +96,18 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
 ## Note
 
-It is my pledge to update this Extension Package with update extension as needed to perform the job efficiently and effectively. Likewise, the Extensions list will be categorized accordingly in the near future. Cheers! :)
+It is my pledge to update this Extension Package with update extension as needed to perform the job efficiently and effectively. Likewise, the Extensions list will be categorized accordingly and more detailed information regarding plugins will be incorporated in the near future. Cheers! :)
 
 ## Attributions
 
 Thank you for all the developers that built these above referenced extensions.  My genuine appreciaion for your hard work and dedication to the developer community. :)
 
+## Published Extensions Packs in VSCode Marketplace
+
+* [**.NET Core Essentials**](https://marketplace.visualstudio.com/items?itemName=JillMNolan.dotnet-core-essentials)
+
+* [**Python Essentials**](https://marketplace.visualstudio.com/items?itemName=JillMNolan.python-essentials)
+
+* [**Web Dev Essentials**](https://marketplace.visualstudio.com/items?itemName=JillMNolan.web-dev-essentials)
 
 **Please enjoy! Cheers!**
