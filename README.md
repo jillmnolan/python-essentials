@@ -2,11 +2,13 @@
 
 ## Introduction
 
-**Please be advised that this project is presently in BETA, thereby it will be updated accordingly.**
+Are you tired of reinstalling extensions on each of your computer(s)? How about when you have to reset computer entirely? Or, how about you're an instructor, a hobbyist, or just "getting your feet wet" in the fine craft of Python programming who does not know which extension(s) to select to get the job done both efficiently and effectively. Regardless, please do not waste time and energy on something so tedious as a process of installing extensions. Extensions are, in a word, awesome! Their premise is to extend the features and functionality of Visual Studio Code.
 
-## Extensions
+## What extensions will I get by selecting this extension pack?
 
-* [**Chromodynamics Theme**]: A **VSCode plugin** extends **Python programming** in **VSCode** through *a highly recommended (at least, from yours truly!)* **dark color scheme** from [**MagicStack**](https://github.com/MagicStack).  **Note:** This works well with [**MagicPython**](https://github.com/MagicStack/MagicPython), which is included below.  :-)
+Glad, that you've asked! Please find the supervening extensions. Of course, I always love to hear your suggestions to improve this extension package.
+
+* [**Chromodynamics Theme**](https://marketplace.visualstudio.com/items?itemName=magicstack.Chromodynamics): A **VSCode plugin** extends **Python programming** in **VSCode** through *a highly recommended (at least, from yours truly!)* **dark color scheme** from [**MagicStack**](https://github.com/MagicStack).  **Note:** This works well with [**MagicPython**](https://github.com/MagicStack/MagicPython), which is included below.  :-)
 
 * [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python): An official **Microsoft VSCode plugin** that provides support for the **Python programming language** albeit for all actively supported **versions**: **2.7, >=3.6**, including **Functionalities**, such as:
 
@@ -48,8 +50,57 @@
 
 * [**Test Explorer Live Share**](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer-liveshare): A VS Code plugin that serves as the "glue" between the previously mentioned [**Test Explorer UI**](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer) and [**Live Share Extension Pack**](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack), respectively.
 
+### Descriptions are coming soon! :-)
+
+* [**PyRight**](https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright)
+
+* [**Sync Settings**](https://marketplace.visualstudio.com/items?itemName=shan.code-settings-sync)
+
+* [**Code Runner**](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
+* [**Guides**](https://marketplace.visualstudio.com/items?itemName=spywhere.guides)
+
+* [**AREPL for Python**](https://marketplace.visualstudio.com/items?itemName=almenon.arepl)
+
+* [**Python Docstring Generator**](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+
+* [**Kite Autocomplete for Python and JavaScript**](https://marketplace.visualstudio.com/items?itemName=kiteco.kite)
+
+* [**EditorConfig for VS Code**](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+
+* [**Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+
+* [**GitLens — Git supercharged**](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+* [**PyDev**](https://marketplace.visualstudio.com/items?itemName=fabioz.vscode-pydev)
+
+* [**TabNine**](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+
+* [**Better Comments**](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+
+* [**Bracket Pair Colorizer 2**](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+
+* [**Markdown All in One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+* [**markdownlint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
+* [**Markdown TOC**](https://marketplace.visualstudio.com/items?itemName=AlanWalk.markdown-toc)
+
+* [**Prettier - Code Formatter**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+* [**Run on Save**](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.runonsave)
+
+* [**YAML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+
+* [**WakaTime**](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+
+## Note
+
+It is my pledge to update this Extension Package with update extension as needed to perform the job efficiently and effectively. Likewise, the Extensions list will be categorized accordingly in the near future. Cheers! :)
+
+## Attributions
+
+Thank you for all the developers that built these above referenced extensions.  My genuine appreciaion for your hard work and dedication to the developer community. :)
 
 
-
-
-
+**Please enjoy! Cheers!**
