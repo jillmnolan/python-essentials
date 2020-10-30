@@ -14,13 +14,55 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
 ### Recommended Extensions for Python Development
 
+* [**AREPL for Python**](https://marketplace.visualstudio.com/items?itemName=almenon.arepl): A Visual Studio Code extension that automatically analyzes Python code in real-time as you code.
+
+* [**Better Comments**](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments): A Visual Studio Code extension whose premise is to categorize your comments (annotations) in your Python code, through:
+  
+  * Alerts
+  
+  * Queries
+  
+  * TODOs
+  
+  * Highlights
+  
+  * Commented out code can also be styled to make it clear the code shouldn't be there
+  
+  * Any other comment styles you'd like can be specified in the settings
+
+* [**Bracket Pair Colorizer 2**](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2): A Visual Studio Code extension that allows matching brackets to be identified with colors. **Note**: The user can define which tokens to match, and which colors to use.
+
+* [**Code Runner**](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): A Visual Studio Code extension that allows for either code snippets or code files to be run in multiple programming languages, such as Python.
+
+* [**Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker): A Visual Studio Code extension that serves as a basic spell checker that works well with camelCase code, thereby catching common spelling errors whilst keeping the number of false positives low.
+
 * [**Django**](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django): A **VSCode plugin** that provides "beautiful" **syntax** and **scoped snippets**.
 
+* [**EditorConfig for VS Code**](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig): A Visual Studio Code extension that attempts to override user/workspace settings with settings found in **.editorconfig files**. **Note**: No additional or vscode-specific files are required. Conversely, if **root=true** is not specified, **EditorConfig** will continue to look for an **.editorconfig** file outside of the project.
+
+* [**GitLens — Git supercharged**](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): A Visual Studio Code extension "supercharges the Git capabilities" out-of-the-box. **Note**: **GitLens** "helps you to visualize code authorship at a glance via **Git blame annotations** and **code lens**, seamlessly navigate and explore **Git repositories**, gain **valuable insights** via **powerful comparison commands**."
+
+* [**Guides**](https://marketplace.visualstudio.com/items?itemName=spywhere.guides): A Visual Studio Code extension that "add various indentation guide lines."
+
 * [**Jinja**](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja): A **VSCode plugin** that supports **Jinja template language** support, including **language colorization** support, including but not limited to **type annotations**, **f-strings**, and **regular expressions**.
+
+* [**Kite Autocomplete for Python and JavaScript**](https://marketplace.visualstudio.com/items?itemName=kiteco.kite): A Visual Studio Code extension that offers "AI powered autocomplete, code snippets, code signatures, and cursor-following documentation."
 
 * [**Live Share Extension Pack**](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack): An **official VSCode extension pack** that enable real-time collaborative development, including integrated [**audio**](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare-audio) and [**text**](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare) chat, which supports [**various use cases**](https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/use-cases).
 
 * [**MagicPython**](https://marketplace.visualstudio.com/items?itemName=magicstack.MagicPython): A **VSCode plugin** that supports **preferences** and **syntax highlighter** for "cutting edge" **Python 3**, whereby serving as a **drop-in replacement** for the default **Python package**.
+
+* [**Markdown All in One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one): A Visual Studio Code extension that offers an all-in-one solution for utilizing Markdown, as the name suggests. :)
+
+* [**markdownlint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): A Visual Studio Code extension whose premise is to serve as Markdown linting and style checking.
+
+* [**Markdown TOC**](https://marketplace.visualstudio.com/items?itemName=AlanWalk.markdown-toc): A Visual Studio Code extension that generates Table of Contents for headlines from parsed markdown file.
+
+* [**Prettier - Code Formatter**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): A Visual Studio Code extension that "enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary."
+
+* [**PyDev**](https://marketplace.visualstudio.com/items?itemName=fabioz.vscode-pydev): A Visual Studio Code extension that provides an integration of [**PyDev**](http://www.pydev.org), enabling users to leverage the features of one of the leading Python IDEs out-of-the-box. **Note: _Please be advised that this extension provides a [30-day trial](https://www.pydev.org/vscode/) after installation, whereby afterwards it must be purchased for continued use_.**
+
+* [**PyRight**](https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright): A Visual Studio Code extension serving as a fast type checker meant for large Python source bases, whilst run in a "watch" mode and performs fast incremental updates when files are modified.
 
 * [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python): An official **Microsoft VSCode plugin** that provides support for the **Python programming language** albeit for all actively supported **versions**: **2.7, >=3.6**, including **Functionalities**, such as:
 
@@ -46,59 +88,27 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
   * **Note**: Please be advised that you will need a **Python** distribution.  Depending on what you utilize Python programming for, I can recommend without hesitation either the official [**Python Distribution**](https://www.python.org/) or [**Anaconda**](https://www.anaconda.com/).  **Anaconda** graphical user interace is best for **data science**, **artificial intelligence**, and **machine learning**.  Conversely, the official **Python** distribution is best for application development (desktop, web, or GIS).  I have included the weblinks to the respective homepages, since usually pages are moved and the direct weblink would be dead.  :-(
 
+* [**Python Docstring Generator**](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring): A Visual Studio Code extension that automatically generates detailed Docstrings for Python functions.
+
 * [**Python Test Explorer for VSCode**](https://marketplace.visualstudio.com/items?itemName=LittleFoxTeam.vscode-python-test-adapter): A **VSCode plugin** which allows you to run your **Python** [**Unitest tests**](https://docs.python.org/3/library/unittest.html#module-unittest) and [**Pytest**](https://docs.pytest.org/en/latest/) in the sidebar, with the assistance of yet another plugin [**Test Explorer UI**](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer). ;-)
 
+* [**Run on Save**](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.runonsave): A Visual Studio Code extension that configures commands that get run whenever a file is saved.  **Note**:  Commands only get run when saving an existing file. **Creating new files** and **Save as** does not trigger the commands.
+
+* [**Sync Settings**](https://marketplace.visualstudio.com/items?itemName=shan.code-settings-sync): A Visual Studio Code extension that synchronize settings, snippets, themes, file icons, launch, keybindings, workspaces and extensions across multiple computers using [**GitHub Gist**](https://gist.github.com/).
+
+* [**TabNine**](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode): A Visual Studio Code extension that indexes your entire project by reading your .gitignore or other files, and determines which files to index.
+* 
 * [**Test Explorer Live Share**](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer-liveshare): A VS Code plugin that serves as the "glue" between the previously mentioned [**Test Explorer UI**](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer) and [**Live Share Extension Pack**](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack), respectively.
 
 * [**Test Explorer UI**](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer): A **VSCode plugin** provides an extensible user interface for running tests. **Note**: This plugin works with a corresponding **Test Adapter** plugin, which for this extension pack is: [**Python Test Explorer for VSCode**](https://marketplace.visualstudio.com/items?itemName=LittleFoxTeam.vscode-python-test-adapter).  Moreover, this plugin can  be used in [**Live Share**](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare) **sessions** by installing the [**Test Explorer Live Share**](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer-liveshare) plugin.  No worries, this **Extension Pack** got you've covered. :)
 
 * [**Visual Studio IntelliCode**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): A **VSCode plugin** that provides **AI-assisted development features** for **Python**, with **insights** based on understanding your **code context** combined with **machine learning**.
 
-### Descriptions are coming soon for these Extension Packs! :-)
+* [**WakaTime**](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime): A Visual Studio Code extension that automatically derives metrics, insights, and time tracking generated from your programming activity.
 
-* [**AREPL for Python**](https://marketplace.visualstudio.com/items?itemName=almenon.arepl)
+* [**YAML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml): A Visual Studio Code extension that provides comprehensive **YAML Language support**, via the **yaml-language-server**, with built-in **Kubernetes syntax support**.
 
-* [**Better Comments**](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-
-* [**Bracket Pair Colorizer 2**](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-
-* [**Code Runner**](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-
-* [**Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-
-* [**EditorConfig for VS Code**](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-
-* [**GitLens — Git supercharged**](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-
-* [**Guides**](https://marketplace.visualstudio.com/items?itemName=spywhere.guides)
-
-* [**Kite Autocomplete for Python and JavaScript**](https://marketplace.visualstudio.com/items?itemName=kiteco.kite)
-
-* [**Markdown All in One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-
-* [**markdownlint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
-
-* [**Markdown TOC**](https://marketplace.visualstudio.com/items?itemName=AlanWalk.markdown-toc)
-
-* [**Prettier - Code Formatter**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-* [**PyDev**](https://marketplace.visualstudio.com/items?itemName=fabioz.vscode-pydev)
-
-* [**PyRight**](https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright)
-
-* [**Python Docstring Generator**](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
-
-* [**Run on Save**](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.runonsave)
-
-* [**Sync Settings**](https://marketplace.visualstudio.com/items?itemName=shan.code-settings-sync)
-
-* [**TabNine**](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
-
-* [**WakaTime**](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
-
-* [**YAML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
-
-**Please feel free to disable any plugin that you do not wish to have activated from the use of our extension pack. :)**
+**_Please feel free to disable any plugin that you do not wish to have activated from the use of our extension pack_. :)**
 
 ## Visual Studio Code Tips and Tricks from its Docs
 
